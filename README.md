@@ -32,7 +32,7 @@
 
 # 
 
-* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@MRNima/QUEEN-ELISA-MULTIAUTH-QR-SCANER)
+* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](𝗥𝗖𝗗  𝗧𝗘𝗔𝗠 𝗕𝗢𝗧𝗦 😾)
 
       ℹ️ if there any error please infrom it support group.  | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න.
 # 
@@ -58,18 +58,7 @@
  
   ##* [How To setup Github 1st step](https://youtu.be/DEpSpJRg4CA)
   
- * Deploy on Heroku Video ⇓
- <p align="left">
-<a href="https://youtu.be/IIl6etHMyoA"><img align="center" src="https://telegra.ph/file/30a48f9e9879189d2ef6d.jpg" alt="DEPLOY" height="110" width="200" /></a>
-   
-* Deploy on Railway Video ⇓
- <p align="left">
-<a href="https://youtu.be/j91TKKIXaMg"><img align="center" src="https://telegra.ph/file/517fafc4228129ff18510.jpg" alt="DEPLOY" height="110" width="200" /></a>
-   
-* Deploy on Replit Video ⇓
- <p align="left">
-<a href="[https://youtube.com/mrnimaofc](https://youtu.be/j91TKKIXaMg)"><img align="center" src="https://telegra.ph/file/909f2519b1dc65a338b29.jpg" alt="DEPLOY" height="110" width="200" /></a>
-   
+
    
    
 # 
@@ -118,3 +107,6 @@ npm start
 <p>
 </details>
 THANAKS FOR USNING ʀᴄᴅ ᴛᴇᴀᴍ ʙᴏᴛꜱ💃💖
+𝗧𝗛𝗔𝗡𝗞𝗦 𝗔𝗟𝗟 𝗖𝗢𝗗𝗜𝗡𝗚 𝗕𝗬 𝗥𝗖𝗗 𝗧𝗘𝗔𝗠 𝗣𝗢𝗪𝗘𝗥 𝗙𝗨𝗟𝗟
+
+https://ibb.co/yYYwMtM
