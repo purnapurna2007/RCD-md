@@ -6,14 +6,14 @@
 <img src="https://ibb.co/yYYwMtM"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=QUEEN+ELISA+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝗥𝗖𝗗+𝗧𝗘𝗔𝗠+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/darkmakerofc?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/darkmakerofc/Queen-Elisa-MD-V2?color=white&style=flat-square"></a>
+<a href="https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/darkmakerofc/𝗥𝗖𝗗 𝗧𝗘𝗔𝗠 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧𝗦?color=white&style=flat-square"></a>
 <a href="https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/darkmakerofc/Queen-Elisa-MD-V2?color=yellow&style=flat-square"></a>
 <a href="https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/darkmakerofc/Queen-Elisa-MD-V2?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
