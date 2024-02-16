@@ -1,6 +1,6 @@
 
 <p align="center"> 
-<u>♥️ ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ ᴍʀ ʀᴄᴅ ᴛᴇᴀᴍ♥️</u>
+<u>♥️𝗥𝗖𝗗  𝗧𝗘𝗔𝗠  𝗕𝗢𝗧𝗦 𝗜𝗦  𝗦𝗨𝗣𝗘𝗥  ♥️</u>
 </p>
 <p align="center">
 <img src="https://ibb.co/yYYwMtM"/>
@@ -9,7 +9,7 @@
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝗥𝗖𝗗+𝗧𝗘𝗔𝗠+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝗥𝗖𝗗 𝗧𝗘𝗔𝗠-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/darkmakerofc?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
