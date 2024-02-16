@@ -3,7 +3,7 @@
 <u>♥️𝗥𝗖𝗗  𝗧𝗘𝗔𝗠  𝗕𝗢𝗧𝗦 𝗜𝗦  𝗦𝗨𝗣𝗘𝗥  ♥️</u>
 </p>
 <p align="center">
-<img src="https://ibb.co/sPgX7PL][img]https://i.ibb.co/ZJfb9Jy/20240216-121657.jpg"/]([https://ibb.co/sPgX7PL](https://ibb.co/sPgX7PL))>
+<img src="https://i.ibb.co/ZJfb9Jy/20240216-121657.jpg"
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝗥𝗖𝗗+𝗧𝗘𝗔𝗠+WHATSAPP+BOT" alt="">
